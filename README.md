@@ -1,2 +1,2 @@
 # banking-system
-banking system for sparks sfoundation
+banking system for sparks foundation
